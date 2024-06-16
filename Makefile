@@ -7,4 +7,4 @@ test:
 	python -m unittest discover -s . -p "test.py"
 
 run:
-	python app.py
+	python dodawanie.py
